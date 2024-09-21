@@ -3,13 +3,13 @@ import React from "react";
 const Offerings = () => {
   return (
     <div className="w-full pt-20 lg:pt-[120px] pb-10 lg:pb-20 bg-[#F3F4F6]">
-      <h2 className="text-xl font-serif font-bold text-green-500 text-left left-2">
+      <h2 className="text-xl py-2 font-sans text-green-500 text-left left-2">
         Our Services
       </h2>
-      <h2 className="text-xl font-serif font-bold text-green-500 text-left left-2">
+      <h2 className="text-xl py-2 font-sans text-zinc-700-500 text-left left-2">
         Explore our offerings
       </h2>
-      <div className="container">
+      <div className="container py-6">
         <div className="flex flex-wrap -mx-4">
           <div className="w-full md:w-1/2 xl:w-1/3 px-4">
             <div className="bg-white rounded-lg overflow-hidden mb-10">
@@ -42,22 +42,6 @@ const Offerings = () => {
                   Experience personalized physiotherapy sessions with skilled
                   professionals.
                 </p>
-                <a
-                  href="javascript:void(0)"
-                  className="
-                             inline-block
-                             py-2
-                             px-7
-                             border border-[#E5E7EB]
-                             rounded-full
-                             text-base text-body-color
-                             font-medium
-                             hover:border-primary hover:bg-primary hover:text-white
-                             transition
-                             "
-                >
-                  View Details
-                </a>
               </div>
             </div>
           </div>
@@ -92,22 +76,6 @@ const Offerings = () => {
                   Easily schedule appointments with qualified doctors at your
                   convenience.
                 </p>
-                <a
-                  href="javascript:void(0)"
-                  className="
-                             inline-block
-                             py-2
-                             px-7
-                             border border-[#E5E7EB]
-                             rounded-full
-                             text-base text-body-color
-                             font-medium
-                             hover:border-primary hover:bg-primary hover:text-white
-                             transition
-                             "
-                >
-                  View Details
-                </a>
               </div>
             </div>
           </div>
@@ -142,22 +110,6 @@ const Offerings = () => {
                   Integrate traditional and modern healthcare for optimal
                   wellness.
                 </p>
-                <a
-                  href="javascript:void(0)"
-                  className="
-                             inline-block
-                             py-2
-                             px-7
-                             border border-[#E5E7EB]
-                             rounded-full
-                             text-base text-body-color
-                             font-medium
-                             hover:border-primary hover:bg-primary hover:text-white
-                             transition
-                             "
-                >
-                  View Details
-                </a>
               </div>
             </div>
           </div>
