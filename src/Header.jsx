@@ -81,7 +81,7 @@ const Header = () => {
                     Services
                   </a>
                 </li>
-                <button className="text-gray-700  bg-gray-400 text-left align-left content-start font-semibold rounded hover:bg-gray-50 border-b border-gray-100 md:hover:bg-transparent md:border-0 block pl-3 pr-4 py-2 p-2 md:hover:text-blue-700 md:p-0">
+                <button className="text-gray-700  bg-green-400 text-left align-left content-start font-semibold rounded hover:bg-gray-50 border-b border-gray-100 md:hover:bg-transparent md:border-0 block pl-3 pr-4 py-2 p-2 md:hover:text-blue-700 md:p-0">
                   Contact Us
                 </button>
               </ul>

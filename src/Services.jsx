@@ -22,7 +22,7 @@ const Services = () => {
               viewBox="0 0 24 24"
               stroke="currentColor"
             ></svg>
-            <span class="ml-1">Book Services</span>
+            <span className="ml-1">Book Services</span>
           </a>
       </div>
       </div>
