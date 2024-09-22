@@ -5,7 +5,7 @@ const Services = () => {
     <>
       <div className="relative justify-items-start">
         <img
-          src="../images/39580282-3cb4-11e8-bbb9-0242ac11000f-jpg-hero_image.jpeg"
+          src="../images/Depositphotos_69004095_S.webp"
           alt="img"
         className="h-[600px] w-screen"/>
         <div className="w-full absolute top-0 left-2 text-center mt-10">
