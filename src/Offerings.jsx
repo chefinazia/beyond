@@ -2,7 +2,7 @@ import React from "react";
 
 const Offerings = () => {
   return (
-    <div className="w-full pt-20 lg:pt-[120px] pb-10 lg:pb-20 bg-[#F3F4F6]">
+    <div className="w-full pl-20 pt-20 lg:pt-[120px] pb-10 lg:pb-20 bg-[#F3F4F6]">
       <h2 className="text-xl py-2 font-sans text-green-500 text-left left-2">
         Our Services
       </h2>

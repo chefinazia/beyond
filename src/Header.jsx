@@ -2,7 +2,7 @@ import React from "react";
 
 const Header = () => {
   return (
-    <div>
+    <div className="sticky top-0 overflow-visible">
       <nav
         className="border-gray-200 mb-10"
         x-data="{ atTop: true }"
@@ -81,7 +81,7 @@ const Header = () => {
                     Services
                   </a>
                 </li>
-                <button className="text-gray-700  bg-green-400 text-left align-left content-start font-semibold rounded hover:bg-gray-50 border-b border-gray-100 md:hover:bg-transparent md:border-0 block pl-3 pr-4 py-2 p-2 md:hover:text-blue-700 md:p-0">
+                <button className="text-gray-700 outline bg-green-400 text-left align-left content-start font-semibold rounded hover:bg-gray-50 border-b border-gray-100 md:hover:bg-transparent md:border-0 block pl-3 pr-4 py-2 p-2 md:hover:text-blue-700 md:p-0">
                   Contact Us
                 </button>
               </ul>
@@ -89,8 +89,6 @@ const Header = () => {
           </div>
         </div>
       </nav>
-
-      <script src="https://unpkg.com/@themesberg/flowbite@1.1.1/dist/flowbite.bundle.js"></script>
     </div>
   );
 };

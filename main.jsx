@@ -5,6 +5,3 @@ import Header from "./src/Header";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
 root.render(<App />);
-
-const headerElement = ReactDOM.createRoot(document.getElementById("header"));
-headerElement.render(<Header/>);
